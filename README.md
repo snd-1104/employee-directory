@@ -1,7 +1,13 @@
+- This application is an employee directory where one can see the employees list, search for an employee, and filter employees by department or title.
+- Also, it has forms for creating, updating or deleting an employee.
+- There is also a view details page for each employee.
+
+
 - To run the application: 
   - Download the files, then in the terminal, run the command (npm install) to install the npm directory
   - In another terminal, run the command (npx json-server --watch data/db.json --port 8000) to be able to access the db file.
   - In the first terminal, run the command (npm start)
+  
   
 - The file (data > db.json) is created using the API tool from https://www.mockaroo.com/ with customized fields
 - I used jSon server as a local database server, and used the command: npx json-server --watch data/db.json --port 8000 to add watch to modifications on the data file
