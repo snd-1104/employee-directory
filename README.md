@@ -1,5 +1,5 @@
 - This application is an employee directory where one can see the employees list, search for an employee, and filter employees by department or title.
-- This application is developed using React
+- This application is developed using ReactJS
 - Also, it has forms for creating, updating or deleting an employee.
 - There is also a view details page for each employee.
 
